@@ -1,0 +1,20 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#231;&#188;&#169;&#231;&#149;&#165;&#229;&#174;&#185;&#229;&#153;&#168;-40px">
+<g clip-path="url(#clip0_0_40)">
+<path id="Subtract" d="M27 7.49965C29.209 7.49965 30.9998 9.29067 31 11.4997V30.3942C30.9999 31.8485 29.4969 32.8161 28.1729 32.2145L26.3271 31.3766C25.8014 31.1377 25.1986 31.1377 24.6729 31.3766L21.6553 32.7477C20.6036 33.2257 19.3964 33.2257 18.3447 32.7477L15.3271 31.3766C14.8014 31.1377 14.1986 31.1377 13.6729 31.3766L11.8271 32.2145C10.5031 32.8161 9.00013 31.8485 9 30.3942V11.4997C9.00019 9.29067 10.791 7.49965 13 7.49965H27ZM21.25 12.4997C20.6978 12.0857 19.9142 12.1976 19.5 12.7497L17.0996 15.9498C16.2347 17.1035 17.0581 18.7497 18.5 18.7497H20L18.5 20.7497C18.0858 21.3019 18.1979 22.0854 18.75 22.4997C19.3023 22.9139 20.0858 22.8019 20.5 22.2497L22.9004 19.0495C23.765 17.8958 22.9419 16.2497 21.5 16.2497H20L21.5 14.2497C21.914 13.6974 21.8022 12.9138 21.25 12.4997Z" fill="url(#paint0_linear_0_40)"/>
+<foreignObject x="15" y="15" width="26" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_1_0_40_clip_path);height:100%;width:100%"></div></foreignObject><circle id="Ellipse 11" data-figma-bg-blur-radius="6" cx="28" cy="28" r="7" fill="white" fill-opacity="0.24"/>
+<path id="Vector 7" d="M26 26L30 30" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Vector 8" d="M30 26L26 30" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="bgblur_1_0_40_clip_path" transform="translate(-15 -15)"><circle cx="28" cy="28" r="7"/>
+</clipPath><linearGradient id="paint0_linear_0_40" x1="20" y1="7.49965" x2="20" y2="33.1062" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF9568"/>
+<stop offset="1" stop-color="#FF6E40"/>
+</linearGradient>
+<clipPath id="clip0_0_40">
+<rect width="40" height="40" rx="3" fill="white"/>
+</clipPath>
+</defs>
+</svg>

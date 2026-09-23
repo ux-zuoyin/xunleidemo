@@ -1,0 +1,20 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#231;&#188;&#169;&#231;&#149;&#165;&#229;&#174;&#185;&#229;&#153;&#168;-40px">
+<g clip-path="url(#clip0_0_89)">
+<path id="Subtract" d="M27 7.5C29.2091 7.5 31 9.29086 31 11.5V28.5C31 30.7091 29.2091 32.5 27 32.5H13C10.7909 32.5 9 30.7091 9 28.5V11.5C9 9.29086 10.7909 7.5 13 7.5H27ZM14.5 18.5C13.6716 18.5 13 19.1716 13 20C13 20.8284 13.6716 21.5 14.5 21.5H17.5C18.3284 21.5 19 20.8284 19 20C19 19.1716 18.3284 18.5 17.5 18.5H14.5ZM14.5 12.5C13.6716 12.5 13 13.1716 13 14C13 14.8284 13.6716 15.5 14.5 15.5H25.5C26.3284 15.5 27 14.8284 27 14C27 13.1716 26.3284 12.5 25.5 12.5H14.5Z" fill="url(#paint0_linear_0_89)"/>
+<foreignObject x="15" y="15" width="26" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_1_0_89_clip_path);height:100%;width:100%"></div></foreignObject><circle id="Ellipse 11" data-figma-bg-blur-radius="6" cx="28" cy="28" r="7" fill="white" fill-opacity="0.24"/>
+<circle id="Ellipse 12" cx="28" cy="28" r="3" stroke="white" stroke-width="1.5"/>
+<path id="Vector 7" d="M30.5 30.5L31.5 31.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="bgblur_1_0_89_clip_path" transform="translate(-15 -15)"><circle cx="28" cy="28" r="7"/>
+</clipPath><linearGradient id="paint0_linear_0_89" x1="20" y1="7.5" x2="20" y2="32.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E9CFF"/>
+<stop offset="1" stop-color="#2B6CFF"/>
+</linearGradient>
+<clipPath id="clip0_0_89">
+<rect width="40" height="40" rx="3" fill="white"/>
+</clipPath>
+</defs>
+</svg>
