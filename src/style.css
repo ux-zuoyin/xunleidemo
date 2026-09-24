@@ -450,7 +450,7 @@ main:is([data-category="视频"],[data-category="图片"],[data-category="音频
   overflow: hidden;
 }
 .poster.movie {
-  background-image: url("/assets/thumb1.png");
+  background-image: url("/assets/thumb1.webp");
 }
 .poster.movie.is-real { background-image: none; }
 .poster.movie video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
@@ -1003,7 +1003,7 @@ h3 button:not(:last-child):hover { color: #2c7df2; }
   object-fit: contain;
 }
 .column-check[aria-checked="false"] img {
-  content: url('/assets/checkbox-off.png');
+  content: url('/assets/checkbox-off.webp');
 }
 .rows {
   font-size: 13px;
@@ -1172,12 +1172,12 @@ h3 button:not(:last-child):hover { color: #2c7df2; }
 .sort-popover{width:200px;padding:8px 0;transform-origin:top right;animation:sort-popover-in 150ms ease-out}.sort-title{display:flex;width:100%;align-items:center;justify-content:space-between;padding:8px 20px 10px;border:0;background:transparent;color:#333;text-align:left;cursor:pointer;font-size:14px}.sort-title:hover{background:#f5f5f6}.sort-title span{font-size:16px;line-height:1}.sort-fields button,.sort-directions button{display:flex;width:100%;padding:10px 20px;border:0;background:transparent;text-align:left;white-space:nowrap;color:#333;cursor:pointer;align-items:center;justify-content:space-between;font-size:14px}.sort-fields button:hover,.sort-directions button:hover{background:#f5f5f6}.sort-fields button span,.sort-directions button span{font-size:16px;line-height:1}.sort-directions{margin-top:8px;padding-top:4px;border-top:1px solid #eceef2}.sort-current{display:flex;align-items:center;justify-content:space-between;margin-top:8px;padding:12px 20px 6px;border-top:1px solid #eceef2;color:#333;font-size:14px}.sort-current input{width:18px;height:18px;margin:0;accent-color:#444}@keyframes sort-popover-in{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
 .filter-popover{width:220px;padding:12px}
 .filter-popover{width:200px;padding:8px 0;transform-origin:top right;animation:sort-popover-in 150ms ease-out}
-.type-filter-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));padding:4px 8px}.type-filter-options button{display:flex;align-items:center;justify-content:flex-start;gap:8px;width:100%;height:40px;padding:0 10px;border:0;background:transparent;color:#333;text-align:left;white-space:nowrap;font-size:14px;cursor:pointer}.type-filter-options button:hover{background:#f5f5f6}.filter-check{width:18px;height:18px;flex:0 0 18px;background:center/14px 14px no-repeat url('/assets/checkbox-off.png')}.filter-check.is-checked{background-image:url('/assets/checkbox-on.png')}
+.type-filter-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));padding:4px 8px}.type-filter-options button{display:flex;align-items:center;justify-content:flex-start;gap:8px;width:100%;height:40px;padding:0 10px;border:0;background:transparent;color:#333;text-align:left;white-space:nowrap;font-size:14px;cursor:pointer}.type-filter-options button:hover{background:#f5f5f6}.filter-check{width:18px;height:18px;flex:0 0 18px;background:center/14px 14px no-repeat url('/assets/checkbox-off.webp')}.filter-check.is-checked{background-image:url('/assets/checkbox-on.webp')}
 .filter-actions{display:grid!important;grid-template-columns:1fr 1fr;gap:8px;margin:4px 8px 0!important;padding:8px 0 0;border-top:1px solid #eceef2}.filter-popover .filter-actions button{width:100%;height:32px;padding:0;font-size:12px}
 .icon-action.has-filter-count{position:relative;background:#edf4ff}.icon-action.has-filter-count::after{content:attr(data-filter-count);position:absolute;top:-7px;right:-7px;display:grid;place-items:center;min-width:18px;height:18px;padding:0 4px;box-sizing:border-box;border:2px solid #fff;border-radius:9px;background:#f34d4d;color:#fff;font-size:11px;line-height:1}
 .sort-popover .sort-fields button,.sort-popover .sort-directions button,.sort-popover .sort-current{font-size:12px}
-.sort-popover .sort-current input{appearance:none;width:18px;height:18px;margin:0;border:0;border-radius:0;background:center/14px 14px no-repeat url('/assets/checkbox-off.png');accent-color:auto;cursor:pointer}
-.sort-popover .sort-current input:checked{background-image:url('/assets/checkbox-on.png')}
+.sort-popover .sort-current input{appearance:none;width:18px;height:18px;margin:0;border:0;border-radius:0;background:center/14px 14px no-repeat url('/assets/checkbox-off.webp');accent-color:auto;cursor:pointer}
+.sort-popover .sort-current input:checked{background-image:url('/assets/checkbox-on.webp')}
 .filter-popover label{display:grid;gap:6px;margin-bottom:10px;font-size:12px;color:#60656e}
 .filter-popover select,.dialog input{width:100%;height:32px;border:1px solid #dfe3ea;border-radius:5px;padding:0 8px;background:#fff;box-sizing:border-box;outline:0}
 .filter-popover footer,.dialog footer{display:flex;justify-content:flex-end;gap:8px;margin-top:12px}
