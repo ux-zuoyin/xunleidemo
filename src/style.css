@@ -509,7 +509,7 @@ main:is([data-category="视频"],[data-category="图片"],[data-category="音频
 .security-ticker-arrow { margin-left:2px; font-size:16px; line-height:18px; }
 @keyframes security-ticker-roll { 0%,42% { transform:translateY(0); } 50%,92% { transform:translateY(-18px); } 100% { transform:translateY(0); } }
 .cards {
-  height: 134px;
+  height: 142px;
   display: grid;
   grid-template-columns: 304px minmax(0, 1fr) 560px;
   gap: 20px;
@@ -827,6 +827,9 @@ h3 button:not(:last-of-type):hover { color: #2c7df2; }
   box-sizing: border-box;
   width: 100%;
   padding-inline: 8px;
+}
+.file-sticky-header h3 {
+  height: 52px;
 }
 .file-sticky-header::before {
   display: none;
